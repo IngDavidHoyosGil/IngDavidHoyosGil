@@ -2,20 +2,36 @@
 <p align="center">
     <a target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/108599224/202064664-e041200e-f3bb-4fd6-b6e6-6dfc08096451.gif" alt="my banner" style="float: left; margin-top: 1px" /></a>
 </p>
-### Hi there 
 
-<!--
-**IngDavidHoyosGil/IngDavidHoyosGil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center"> I'm a electronic Engineer graduated on 2022 💻, and a IT Student specialized in Software Development! </h2>
 
-Here are some ideas to get you started:
+> "I'm here to create magic with Tech."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm in love with communication and technology. 
+  I love solving problems and creating innovative solutions. I'm an enthusiastic about learning new things and meeting new people. 
 
+## 📩 Connect
+* Do you have any question or project to work together? Don't hesitate! Let's talk with me ☕.
+
+<p align="left" >
+        <a href="mailto:david.hoyos@correounivalle.edu.co?Subject=I%20want%20propose%20you%20something" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172060688-5e1bf6ca-7bb9-43a2-b202-001170434946.png"  width="45"></a>
+        <a href="https://www.linkedin.com/in/ing-davidh/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172059761-c87c0437-c1b5-4e33-8d3e-e00adf4afc57.png"  width="45"></a>
+</p>
+
+## 📋 Current Goals
+- [ ] Improve my English skills. 
+- [ ] Finish Launch X Latam Software Development.
+- [ ] Develop a complete project using Python. 
+- [ ] Participate in a Hackaton.
+
+## 💼 Technical Skills   
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![JacaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+
+## 📈 GitHub Stats 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IngDavidHoyosGil&show_icons=true&theme=tokyonight)
