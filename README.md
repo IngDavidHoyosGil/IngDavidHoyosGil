@@ -1,4 +1,8 @@
-### Hi there 👋
+<h2 align="center"> Hi! I'm David Hoyos 👋.</h2>
+<p align="center">
+    <a target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/108599224/202064664-e041200e-f3bb-4fd6-b6e6-6dfc08096451.gif" alt="my banner" style="float: left; margin-top: 1px" /></a>
+</p>
+### Hi there 
 
 <!--
 **IngDavidHoyosGil/IngDavidHoyosGil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
