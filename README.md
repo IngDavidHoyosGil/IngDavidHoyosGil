@@ -22,7 +22,7 @@ I'm in love with communication and technology.
 - [ ] Improve my English skills. 
 - [ ] Finish Launch X Latam Software Development.
 - [ ] Develop a complete project using Python. 
-- [ ] Participate in a Hackaton.
+- [ ] Participate in a Hackathon.
 
 ## 💼 Technical Skills   
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
