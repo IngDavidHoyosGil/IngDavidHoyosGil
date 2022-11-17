@@ -25,6 +25,8 @@ I'm in love with communication and technology.
 - [ ] Develop a complete project using Python. 
 - [ ] Participate in a Hackathon.
 
+<!---## 👍 Achieved Goals--->
+
 ## 💼 Technical Skills   
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
