@@ -19,7 +19,8 @@ I'm in love with communication and technology.
 </p>
 
 ## 📋 Current Goals
-- [ ] Improve my English skills. 
+- [ ] Improve my English skills.
+- [ ] I’m currently working on [My portfolio](https://github.com/IngDavidHoyosGil/MyPortfolio)
 - [ ] Finish Launch X Latam Software Development.
 - [ ] Develop a complete project using Python. 
 - [ ] Participate in a Hackathon.
@@ -35,3 +36,5 @@ I'm in love with communication and technology.
 
 ## 📈 GitHub Stats 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IngDavidHoyosGil&show_icons=true&theme=tokyonight)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IngDavidHoyosGil&show_icons=true&locale=en&layout=compact" alt="IngDavidHoyosGil" /></p>
