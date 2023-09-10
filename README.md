@@ -19,11 +19,10 @@ I'm in love with communication and technology.
 </p>
 
 ## 📋 Current Goals
-- [ ] Improve my English skills.
+- [ ] Reach B2 English proficiency.
 - [ ] I’m currently working on [My portfolio](https://github.com/IngDavidHoyosGil/MyPortfolio)
-- [ ] Finish Launch X Latam Software Development.
 - [ ] Develop a complete project using Python. 
-- [ ] Participate in a Hackathon.
+- [ ] Get knowledge about Software Architecture.
 
 <!---## 👍 Achieved Goals--->
 
