@@ -1,28 +1,28 @@
-<h2 align="center"> Hi! I'm David Hoyos 👋.</h2>
+<h2 align="center">Hi! I'm David Hoyos 👋.</h2>
 <p align="center">
     <a href="" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/108599224/202064664-e041200e-f3bb-4fd6-b6e6-6dfc08096451.gif" alt="my banner" style="float: left; margin-top: 1px" /></a>
 </p>
 
-<h2 align="center"> I'm an electronic Engineer graduated on 2022 💻, and a IT Student specialized in Software Development! </h2>
+<h2 align="center">I'm an electronic engineer graduated in 2022 💻, and an IT student focused on software development!</h2>
 
-> "I'm here to create magic with Tech."
+> "I'm here to create magic with tech."
 
-I'm in love with communication and technology. 
-  I love solving problems and creating innovative solutions. I'm an enthusiastic about learning new things and meeting new people. 
+I'm in love with communication and technology.
+I love solving problems and creating innovative solutions. I'm enthusiastic about learning new things and meeting new people.
 
 ## 📩 Connect
-* Do you have any question or project to work together? Don't hesitate! Let's talk with me ☕.
+* Do you have any questions or a project to work on together? Don't hesitate! Let's talk over a cup of coffee ☕.
 
 <p align="left" >
-        <a href="mailto:davidhoyosgil2008@gmail.com?Subject=I%20want%20propose%20you%20something" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172060688-5e1bf6ca-7bb9-43a2-b202-001170434946.png"  width="45"></a>
+        <a href="mailto:davidhoyosgil2008@gmail.com?Subject=I%20want%20to%20propose%20something%20to%20you" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172060688-5e1bf6ca-7bb9-43a2-b202-001170434946.png"  width="45"></a>
         <a href="https://www.linkedin.com/in/ing-davidh/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172059761-c87c0437-c1b5-4e33-8d3e-e00adf4afc57.png"  width="45"></a>
 </p>
 
 ## 📋 Current Goals
 - [ ] Reach B2 English proficiency.
-- [ ] I’m currently working on [My portfolio](https://github.com/IngDavidHoyosGil/MyPortfolio)
-- [ ] Develop a complete project using Python. 
-- [ ] Get knowledge about Software Architecture.
+- [ ] I’m currently working on [My Portfolio](https://github.com/IngDavidHoyosGil/MyPortfolio)
+- [ ] Develop a complete project using Python.
+- [ ] Gain knowledge about Software Architecture.
 
 <!---## 👍 Achieved Goals--->
 
