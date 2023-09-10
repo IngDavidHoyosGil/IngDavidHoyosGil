@@ -1,6 +1,6 @@
 <h2 align="center"> Hi! I'm David Hoyos 👋.</h2>
 <p align="center">
-    <a href="https://davidhoyos.azurewebsites.net/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/108599224/202064664-e041200e-f3bb-4fd6-b6e6-6dfc08096451.gif" alt="my banner" style="float: left; margin-top: 1px" /></a>
+    <a href="" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/108599224/202064664-e041200e-f3bb-4fd6-b6e6-6dfc08096451.gif" alt="my banner" style="float: left; margin-top: 1px" /></a>
 </p>
 
 <h2 align="center"> I'm an electronic Engineer graduated on 2022 💻, and a IT Student specialized in Software Development! </h2>
