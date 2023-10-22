@@ -34,8 +34,16 @@ I love solving problems and creating innovative solutions. I'm enthusiastic abou
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![JacaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
+## 📖 I've read these Books 
 
+* The pragmatic programmer - 20th Anniversary Edition
+* The passionate programmer - 2nd Edition
+* Scrum - El arte de hacer el doble de trabajo en la mitad de tiempo.
+* El libro negro del programador.
+  
 ## 📈 GitHub Stats 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IngDavidHoyosGil&show_icons=true&theme=tokyonight)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IngDavidHoyosGil&show_icons=true&locale=en&layout=compact" alt="IngDavidHoyosGil" /></p>
+
+
