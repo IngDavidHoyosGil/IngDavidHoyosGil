@@ -20,7 +20,7 @@ I love solving problems and creating innovative solutions. I'm enthusiastic abou
 
 ## 📋 Current Goals
 - [ ] Reach B2 English proficiency.
-- [ ] I’m currently working on  My Portfolio made from [Linux](https://github.com/IngDavidHoyosGil/MyPortfolio) and [Windows](https://github.com/IngDavidHoyosGil/Portfolio)
+- [ ] I’m currently working on  My Portfolio made from [Linux](https://github.com/IngDavidHoyosGil/MyPortfolio) and [Windows](https://github.com/IngDavidHoyosGil/Portfolio).
 - [ ] Develop a complete project using Python.
 - [ ] Gain knowledge about Software Architecture.
 
@@ -36,8 +36,8 @@ I love solving problems and creating innovative solutions. I'm enthusiastic abou
 
 ## 📖 I've read these Books 
 
-* The pragmatic programmer - 20th Anniversary Edition
-* The passionate programmer - 2nd Edition
+* The pragmatic programmer - 20th Anniversary Edition.
+* The passionate programmer - 2nd Edition.
 * Scrum - El arte de hacer el doble de trabajo en la mitad de tiempo.
 * El libro negro del programador.
   
