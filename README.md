@@ -20,7 +20,7 @@ I love solving problems and creating innovative solutions. I'm enthusiastic abou
 
 ## 📋 Current Goals
 - [ ] Reach B2 English proficiency.
-- [ ] I’m currently working on [My Portfolio](https://github.com/IngDavidHoyosGil/MyPortfolio)
+- [ ] I’m currently working on  My Portfolio made from [Linux](https://github.com/IngDavidHoyosGil/MyPortfolio) and [Windows](https://github.com/IngDavidHoyosGil/Portfolio)
 - [ ] Develop a complete project using Python.
 - [ ] Gain knowledge about Software Architecture.
 
