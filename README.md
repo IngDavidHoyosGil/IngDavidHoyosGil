@@ -40,6 +40,7 @@ I love solving problems and creating innovative solutions. I'm enthusiastic abou
 * The passionate programmer - 2nd Edition.
 * Scrum - El arte de hacer el doble de trabajo en la mitad de tiempo.
 * El libro negro del programador.
+* Historia de un viejo informático.
   
 ## 📈 GitHub Stats 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IngDavidHoyosGil&show_icons=true&theme=tokyonight)
