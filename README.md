@@ -3,7 +3,7 @@
     <a href="" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/108599224/202064664-e041200e-f3bb-4fd6-b6e6-6dfc08096451.gif" alt="my banner" style="float: left; margin-top: 1px" /></a>
 </p>
 
-<h2 align="center">I'm an Electronic Engineer graduated in 2022 💻, and an IT student focused on Software Development!</h2>
+<h2 align="center">I'm an Electronic Engineer graduated in 2022 💻, and a passionate Software Developer!</h2>
 
 > "I'm here to create magic with tech."
 
