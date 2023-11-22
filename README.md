@@ -42,6 +42,8 @@ I love solving problems and creating innovative solutions. I'm enthusiastic abou
 * The passionate programmer - 2nd Edition.
 * El libro negro del programador.
 * Historia de un viejo informático.
+
+**[Other Books](Other_books.md)**
   
 ## 📈 GitHub Stats 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IngDavidHoyosGil&show_icons=true&theme=tokyonight)
