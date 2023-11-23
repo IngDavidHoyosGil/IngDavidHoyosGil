@@ -84,6 +84,10 @@
 * La última oportunidad.
 * Los fantasmas del espejo.
 * Malditas matemáticas.
+* El castillo subterráneo.
+* La ciudad sin nombre.
+* El regreso del Fénix.
+* El ejército de la nada.
 
 ## 📈 GitHub Stats 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IngDavidHoyosGil&show_icons=true&theme=tokyonight)
