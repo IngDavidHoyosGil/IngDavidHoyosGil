@@ -14,6 +14,7 @@
 * De cero a políglota: Cómo NO hablar un idioma en 7 días.
 * Maximize your child's bilingual ability.
 * La culpa es de la vaca.
+* El encantador de perros.
 
 **Soul**
 * Hermano rico, hermana rica.
@@ -84,6 +85,7 @@
 * La última oportunidad.
 * Los fantasmas del espejo.
 * Malditas matemáticas.
+* ¿Quién se ha llevado mi queso?
 * El castillo subterráneo.
 * La ciudad sin nombre.
 * El regreso del Fénix.
