@@ -39,6 +39,7 @@ I love solving problems and creating innovative solutions. I'm enthusiastic abou
 * Scrum - El arte de hacer el doble de trabajo en la mitad de tiempo.
 
 **Software Engineering Books**
+* Clean Code.
 * Aprendiendo Git.
 * The pragmatic programmer - 20th Anniversary Edition.
 * The passionate programmer - 2nd Edition.
