@@ -34,8 +34,10 @@ I love solving problems and creating innovative solutions. I'm enthusiastic abou
 
 ## 📖 I've read these Books 
 
-**Engineering Management Books**
+**Leadership books**
 * The unwritten laws of engineering
+
+**Engineering Management Books**
 * Scrum - El arte de hacer el doble de trabajo en la mitad de tiempo.
 
 **Software Engineering Books**
