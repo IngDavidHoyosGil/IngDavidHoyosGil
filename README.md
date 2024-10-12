@@ -41,6 +41,7 @@ I love solving problems and creating innovative solutions. I'm enthusiastic abou
 * Scrum - El arte de hacer el doble de trabajo en la mitad de tiempo.
 
 **Software Engineering Books**
+* The Software Engineer's Guidebook: Navigating senior, tech lead, staff and principal positions at tech companies and startups.
 * Clean Code.
 * Aprendiendo Git.
 * The pragmatic programmer - 20th Anniversary Edition.
