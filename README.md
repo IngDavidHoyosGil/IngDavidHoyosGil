@@ -38,6 +38,7 @@ I love solving problems and creating innovative solutions. I'm enthusiastic abou
 * The unwritten laws of engineering
 
 **Engineering Management Books**
+* The Manager's Path: A Guide for Tech Leaders Navigating Growth & Change.
 * Scrum - El arte de hacer el doble de trabajo en la mitad de tiempo.
 
 **Software Engineering Books**
