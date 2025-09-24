@@ -19,7 +19,7 @@ I love solving problems and creating innovative solutions. I'm enthusiastic abou
 </p>
 
 ## 📋 Current Goals
-- [ ] I’m currently working on My Portfolio made from [Linux](https://github.com/IngDavidHoyosGil/MyPortfolio) and [Windows](https://github.com/IngDavidHoyosGil/Portfolio).
+- [ ] I’m currently working on My Portfolio made on [Linux](https://github.com/IngDavidHoyosGil/MyPortfolio) and [Windows](https://github.com/IngDavidHoyosGil/Portfolio).
 - [ ] Achieve Certified Cloud Practitioner and Certified Data Engineer - Associate AWS Certifications.
 
 
