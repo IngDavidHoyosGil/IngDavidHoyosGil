@@ -19,14 +19,9 @@ I love solving problems and creating innovative solutions. I'm enthusiastic abou
 </p>
 
 ## 📋 Current Goals
-<<<<<<< HEAD
-- [ ] I’m currently working on My Portfolio made from [Linux](https://github.com/IngDavidHoyosGil/MyPortfolio) and [Windows](https://github.com/IngDavidHoyosGil/Portfolio).
+- [ ] I’m currently working on My Portfolio made on [Linux](https://github.com/IngDavidHoyosGil/MyPortfolio) and [Windows](https://github.com/IngDavidHoyosGil/Portfolio).
 - [ ] Achieve Certified Cloud Practitioner AWS Certification.
 - [ ] Achieve SnowPro® Core Certification.
-=======
-- [ ] I’m currently working on My Portfolio made on [Linux](https://github.com/IngDavidHoyosGil/MyPortfolio) and [Windows](https://github.com/IngDavidHoyosGil/Portfolio).
-- [ ] Achieve Certified Cloud Practitioner and Certified Data Engineer - Associate AWS Certifications.
->>>>>>> 3b8fc539aa63f0905a8ec50a9699df2ea0787787
 
 
 <!---## 👍 Achieved Goals--->
