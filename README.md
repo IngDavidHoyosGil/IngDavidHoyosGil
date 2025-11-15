@@ -38,7 +38,7 @@ I love solving problems and creating innovative solutions. I'm enthusiastic abou
 ## 📖 I've read these Books 
 
 **Data Books**
-* Storytelling with data: A data visualization guide for business.
+* Storytelling with data: A data visualization guide for business professionals.
 
 **Leadership books**
 * The unwritten laws of engineering.
