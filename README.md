@@ -19,7 +19,7 @@ I love solving problems and creating innovative solutions. I'm enthusiastic abou
 </p>
 
 ## 📋 Current Goals
-- [ ] I’m currently working on My Portfolio made on [Linux](https://github.com/IngDavidHoyosGil/MyPortfolio) and [Windows](https://github.com/IngDavidHoyosGil/Portfolio).
+- [ ] I’m currently working on My Portfolio made on [Windows](https://github.com/IngDavidHoyosGil/Portfolio) and [Linux](https://github.com/IngDavidHoyosGil/MyPortfolio).
 - [ ] Achieve Certified Cloud Practitioner AWS Certification.
 - [ ] Achieve SnowPro® Core Certification.
 
