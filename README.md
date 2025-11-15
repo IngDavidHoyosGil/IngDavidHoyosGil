@@ -20,7 +20,8 @@ I love solving problems and creating innovative solutions. I'm enthusiastic abou
 
 ## 📋 Current Goals
 - [ ] I’m currently working on My Portfolio made from [Linux](https://github.com/IngDavidHoyosGil/MyPortfolio) and [Windows](https://github.com/IngDavidHoyosGil/Portfolio).
-- [ ] Achieve Certified Cloud Practitioner and Certified Data Engineer - Associate AWS Certifications.
+- [ ] Achieve Certified Cloud Practitioner AWS Certification.
+- [ ] Achieve SnowPro® Core Certification.
 
 
 <!---## 👍 Achieved Goals--->
@@ -36,8 +37,11 @@ I love solving problems and creating innovative solutions. I'm enthusiastic abou
 
 ## 📖 I've read these Books 
 
+**Data Books**
+* Storytelling with data: A data visualization guide for business.
+
 **Leadership books**
-* The unwritten laws of engineering
+* The unwritten laws of engineering.
 
 **Engineering Management Books**
 * The Manager's Path: A Guide for Tech Leaders Navigating Growth & Change.
