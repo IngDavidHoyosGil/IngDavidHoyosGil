@@ -38,6 +38,7 @@ I love solving problems and creating innovative solutions. I'm enthusiastic abou
 ## 📖 I've read these Books 
 
 **Data Books**
+* Fundamentals of Data Engineering: Plan and Build Robust Data Systems.
 * Storytelling with data: A data visualization guide for business professionals.
 
 **Leadership books**
