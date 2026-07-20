@@ -58,10 +58,5 @@ I love solving problems and creating innovative solutions. I'm enthusiastic abou
 * Historia de un viejo informático.
 
 **[Other Books](Other_books.md)**
-  
-## 📈 GitHub Stats 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IngDavidHoyosGil&show_icons=true&theme=tokyonight)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IngDavidHoyosGil&show_icons=true&locale=en&layout=compact" alt="IngDavidHoyosGil" /></p>
 
 
