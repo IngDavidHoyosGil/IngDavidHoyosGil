@@ -39,6 +39,7 @@ I love solving problems and creating innovative solutions. I'm enthusiastic abou
 
 **Data Books**
 * Storytelling with data: A data visualization guide for business professionals.
+* Desbloquea tu Carrera en Datos: El Libro Estratégico para el Éxito
 
 **Leadership books**
 * The unwritten laws of engineering.
