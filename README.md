@@ -38,6 +38,7 @@ I love solving problems and creating innovative solutions. I'm enthusiastic abou
 ## 📖 I've read these Books 
 
 **Data Books**
+* Fundamentals of Data Engineering: Plan and Build Robust Data Systems.
 * Storytelling with data: A data visualization guide for business professionals.
 * Desbloquea tu Carrera en Datos: El Libro Estratégico para el Éxito
 
@@ -58,10 +59,5 @@ I love solving problems and creating innovative solutions. I'm enthusiastic abou
 * Historia de un viejo informático.
 
 **[Other Books](Other_books.md)**
-  
-## 📈 GitHub Stats 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IngDavidHoyosGil&show_icons=true&theme=tokyonight)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IngDavidHoyosGil&show_icons=true&locale=en&layout=compact" alt="IngDavidHoyosGil" /></p>
 
 
