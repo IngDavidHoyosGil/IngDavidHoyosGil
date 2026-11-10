@@ -90,8 +90,3 @@
 * La ciudad sin nombre.
 * El regreso del Fénix.
 * El ejército de la nada.
-
-## 📈 GitHub Stats 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IngDavidHoyosGil&show_icons=true&theme=tokyonight)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IngDavidHoyosGil&show_icons=true&locale=en&layout=compact" alt="IngDavidHoyosGil" /></p>
