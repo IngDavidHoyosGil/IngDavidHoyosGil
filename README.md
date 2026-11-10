@@ -1,63 +1,82 @@
-<h2 align="center">Hi! I'm David Hoyos 👋.</h2>
+<h1 align="center">Hi, I'm David Hoyos 👋</h1>
+
+<h3 align="center">Electronic Engineer building a career in Data Engineering</h3>
+
 <p align="center">
-    <a href="" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/108599224/202064664-e041200e-f3bb-4fd6-b6e6-6dfc08096451.gif" alt="my banner" style="float: left; margin-top: 1px" /></a>
+  <a href="https://www.linkedin.com/in/ing-davidh/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
+  </a>
+  <a href="mailto:davidhoyosgil2008@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email David">
+  </a>
 </p>
 
-<h2 align="center">I'm an Electronic Engineer 💻, and a passionate Software Developer!</h2>
+---
 
-> "I'm here to create magic with tech."
+### About me
 
-I'm in love with communication and technology.
-I love solving problems and creating innovative solutions. I'm enthusiastic about learning new things and meeting new people.
+I'm an Electronic Engineer transitioning into Data Engineering, with 2+ years of analytical experience across fintech and healthcare operations. I enjoy turning data from APIs and operational systems into dependable pipelines and useful insights.
 
-## 📩 Connect
-* Do you have any questions or a project to work on together? Don't hesitate! Let's talk over a cup of coffee ☕.
+I’m building hands-on experience with Python, SQL, AWS, Apache Airflow, and Snowflake through end-to-end projects, while strengthening my foundations in data architecture, orchestration, and software engineering.
 
-<p align="left" >
-        <a href="mailto:davidhoyosgil2008@gmail.com?Subject=I%20want%20to%20propose%20something%20to%20you" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172060688-5e1bf6ca-7bb9-43a2-b202-001170434946.png"  width="45"></a>
-        <a href="https://www.linkedin.com/in/ing-davidh/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172059761-c87c0437-c1b5-4e33-8d3e-e00adf4afc57.png"  width="45"></a>
+> “I'm here to create magic with tech.”
+
+- 🌎 Based in Jamundí, Colombia
+- 🗣️ Spanish (native) · English (B2)
+- 📫 [Email me](mailto:davidhoyosgil2008@gmail.com) · [Connect on LinkedIn](https://www.linkedin.com/in/ing-davidh/)
+
+### Featured projects
+
+| Project | What I built |
+|---|---|
+| [YouTube Channel Analytics Pipeline](https://github.com/IngDavidHoyosGil/youtube-channel-analytics-pipeline) | A serverless AWS pipeline that extracts YouTube channel statistics, stores historical snapshots in S3, analyzes them with Athena, and sends incident notifications through SNS. |
+| [Football Data Pipeline](https://github.com/IngDavidHoyosGil/football-pipeline) | An Airflow pipeline that processes seven football leagues and incrementally loads normalized standings into Snowflake using staging and `MERGE`. |
+| [Weather Data Pipeline](https://github.com/IngDavidHoyosGil/weather-alert-bot) | An AWS EC2 pipeline that collects and transforms hourly weather data, then sends automated WhatsApp alerts. |
+
+### Data engineering toolkit
+
+**Languages & data:** Python · SQL · Pandas · JSON · REST APIs  
+**Pipelines & platforms:** Apache Airflow · Snowflake · ETL/ELT · Astronomer  
+**AWS:** Lambda · S3 · Athena · EventBridge · SNS · EC2  
+**Tools:** Docker · Linux · Git · Pytest · Jupyter · Conda
+
+### Books I've read
+
+**Data**
+- *Fundamentals of Data Engineering*: Joe Reis and Matt Housley
+- *Storytelling with Data*: Cole Nussbaumer Knaflic
+- *Desbloquea tu Carrera en Datos*
+
+**Software engineering**
+- *The Software Engineer's Guidebook*: Gergely Orosz
+- *Clean Code*: Robert C. Martin
+- *The Pragmatic Programmer*: Andrew Hunt and David Thomas
+- *The Passionate Programmer*: Chad Fowler
+- *Aprendiendo Git*
+- *El libro negro del programador*
+- *Historia de un viejo informático*
+
+**Leadership & engineering management**
+- *The Unwritten Laws of Engineering*
+- *The Manager's Path*: Camille Fournier
+- *Scrum - El arte de hacer el doble de trabajo en la mitad de tiempo*: Jeff Sutherland
+
+[See more books](Other_books.md)
+
+### Learning path
+
+- 📚 Deepening my knowledge of data architecture, reliable pipelines, and cloud infrastructure
+- ☁️ Preparing for the AWS Certified Cloud Practitioner certification
+- ❄️ Preparing for the SnowPro Core certification
+
+### Background
+
+I hold a Bachelor’s degree in Electronic Engineering and a Diploma in Big Data and Data Science with Python. In healthcare revenue cycle analytics, I worked with claims and payment data to find bottlenecks and resolve data discrepancies. In fintech support, I investigated transaction data and documented trends in regulated environments.
+
+Those experiences shaped how I approach data work: carefully, analytically, and with attention to data quality.
+
+---
+
+<p align="center">
+  <i>Always learning. Always building.</i>
 </p>
-
-## 📋 Current Goals
-- [ ] I’m currently working on My Portfolio made on [Windows](https://github.com/IngDavidHoyosGil/Portfolio) and [Linux](https://github.com/IngDavidHoyosGil/MyPortfolio).
-- [ ] Achieve Certified Cloud Practitioner AWS Certification.
-- [ ] Achieve SnowPro® Core Certification.
-
-
-<!---## 👍 Achieved Goals--->
-
-## 💼 Technical Skills   
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![JacaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
-
-## 📖 I've read these Books 
-
-**Data Books**
-* Fundamentals of Data Engineering: Plan and Build Robust Data Systems.
-* Storytelling with data: A data visualization guide for business professionals.
-* Desbloquea tu Carrera en Datos: El Libro Estratégico para el Éxito
-
-**Leadership books**
-* The unwritten laws of engineering.
-
-**Engineering Management Books**
-* The Manager's Path: A Guide for Tech Leaders Navigating Growth & Change.
-* Scrum - El arte de hacer el doble de trabajo en la mitad de tiempo.
-
-**Software Engineering Books**
-* The Software Engineer's Guidebook: Navigating senior, tech lead, staff and principal positions at tech companies and startups.
-* Clean Code.
-* Aprendiendo Git.
-* The pragmatic programmer - 20th Anniversary Edition.
-* The passionate programmer - 2nd Edition.
-* El libro negro del programador.
-* Historia de un viejo informático.
-
-**[Other Books](Other_books.md)**
-
-
