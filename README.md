@@ -45,19 +45,19 @@ I’m building hands-on experience with Python, SQL, AWS, Apache Airflow, and Sn
 **Data**
 - *Fundamentals of Data Engineering*: Joe Reis and Matt Housley
 - *Storytelling with Data*: Cole Nussbaumer Knaflic
-- *Desbloquea tu Carrera en Datos*
+- *Desbloquea tu Carrera en Datos*: Omar Valdez
 
 **Software engineering**
 - *The Software Engineer's Guidebook*: Gergely Orosz
 - *Clean Code*: Robert C. Martin
 - *The Pragmatic Programmer*: Andrew Hunt and David Thomas
 - *The Passionate Programmer*: Chad Fowler
-- *Aprendiendo Git*
-- *El libro negro del programador*
-- *Historia de un viejo informático*
+- *Aprendiendo Git*: Miguel Ángel Durán
+- *El libro negro del programador*: Rafael Gómez Blanes
+- *Historia de un viejo informático*: Macluskey
 
 **Leadership & engineering management**
-- *The Unwritten Laws of Engineering*
+- *The Unwritten Laws of Engineering*: W.J. King
 - *The Manager's Path*: Camille Fournier
 - *Scrum - El arte de hacer el doble de trabajo en la mitad de tiempo*: Jeff Sutherland
 
